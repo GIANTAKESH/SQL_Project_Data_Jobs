@@ -153,6 +153,7 @@ Here is a Breakdown of the Most In-Demand Skills for Remote Data Analysts in 202
 | Python   | 4,330        |
 | Tableau  | 3,745        |
 | Power BI | 2,609        |
+
 *Table of the Most In-Demand Skills in Remote Data Analyst Job Postings*
 
 ### 4. SKILLS BASED ON SALARY
@@ -210,6 +211,7 @@ Here ia a breakdown o the most demanded skills for data analysts in 2023:
 | tensorflow   | 120,647         |
 | cassandra    | 118,407         |
 | notion       | 118,092         |
+
 *Table of Top 25 Highest-Paying Skills in Remote Data Analyst Roles*
 
 ### 5. MOST OPTIMAL SKILL TO LEARN
@@ -277,6 +279,7 @@ Here is a Breakdown of the Most Optimal Skills for Remote Data Analysts in 2023;
 | 7        | SAS        | 63           | 98,902          |
 | 61       | SQL Server | 35           | 97,786          |
 | 9        | JavaScript | 20           | 97,587          |
+
 *Table of Top 25 Optimal Skills for Remote Data Analysts*
 
 # WHAT I LEARNED 
