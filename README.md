@@ -68,6 +68,7 @@ Here is a Breakdown of the Top Remote Data Analyst Jobs in 2023:
 - Job postings span the entire year, indicating consistent demand.
 
 ![Top Paying Jobs](assets\1_top_paying_jobs.png)
+
 *A Bar Chart Visualization of the Top 10 Highest-Paying Remote Data Analyst Jobs, Showing Each Role's Salary and Hiring Company; ChatGbt generated this chart for my sql query result*
 
 
@@ -116,6 +117,7 @@ Here is a Breakdown of the Most In-Demand Skills for the Top 10 Highest-Paying R
 - Extra edge: Some roles require DevOps or team tools (Jira, Bitbucket, Confluence), showing a blend of analytics and engineering.
 
 ![Skills For Top Paying Jobs](assets\2_top_paying_job_skill.png)
+
 *A Bar Chart Visualizing the Top Skills Most Frequently Required in High-Paying Remote Data Analyst Roles; ChatGpt generated this vhart from my SQL query results*
 
 ### 3. IN-DEMAND SKILLS FOR DATA ANALYSTS
